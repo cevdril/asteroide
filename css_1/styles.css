@@ -1,1 +1,32 @@
-/*  This is the start of my css */
+html {
+    height: 100%;
+    width: 100%;
+  }
+  h1{
+    text-align: center;
+  
+    
+  }
+  
+  body {background-image:red; 
+  ul {
+    list-style-type: none;
+    margin-left:auto;
+    margin-right: auto;
+    background-color:white;
+    width: 30%;
+  
+    text-align: center;
+    }
+        
+   li {display: inline; 
+          
+        }
+      img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
+        p{ text-align: center;
+          
+        }
